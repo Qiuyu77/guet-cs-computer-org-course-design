@@ -1,4 +1,5 @@
-🖥️ Embedded CISC Model Computer
+🖥️ 桂林电子科技大学计算机组成原理课程设计B题
+    Embedded CISC Model Computer
 
 <p align="center">
   <strong>计算机组成原理 · 课程设计</strong>
